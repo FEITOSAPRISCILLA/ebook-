@@ -31,7 +31,7 @@ Midjourney：
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Generativas podem ser uma ferramenta poderosa na criação de conteúdo .
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/FEITOSAPRISCILLA/ebook-/blob/main/EBOOK.pdf)
 
 
 ⌨️ com 💜 por Priscilla Feitosa
